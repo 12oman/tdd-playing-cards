@@ -1,5 +1,7 @@
 # JavaScript TDD playing cards
 
+<!-- Roman is cool -->
+
 The purpose of this repo is to help you become familiar with test-first design, also commonly called test-driven development, or TDD. There are lots of approaches to testing, but I recommend and prefer test-first design for several reasons. First off there is a difference in the clean design of the code. You may find that increasing complexity is _much_ easier to manage and this might increase your confidence as a developer generally. Additionally, tests communicate intent to other developers and collaborators. It also can be used to show that you have meet the client's requirements. Considered together, if by following this approach you end up with a solid design, manageable complexity and automated testing, _not_ applying these practices is just asking for pain (short term and long term).
 
 ## Setup
