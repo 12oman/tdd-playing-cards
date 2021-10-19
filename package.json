@@ -1,0 +1,14 @@
+{
+  "name": "tddplayingcards",
+  "version": "1.0.0",
+  "description": "A helper for test-first design (aka TDD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "author": "Roman Mitch",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
